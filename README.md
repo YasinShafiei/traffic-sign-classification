@@ -26,3 +26,7 @@ validation loss : 0.01502371459097166 |======| validation accuracy : 0.995763578
   
   
   ![accuracy-loss](https://user-images.githubusercontent.com/91404054/164709831-546c0970-b860-4d53-8ea5-cea58a972f9e.png)
+
+### predictions:
+  The model has predicted the test data of GTSRB dataset with an accuracy of 95 percents. This is the predictions of 30 images:
+  ![predictions](https://user-images.githubusercontent.com/91404054/164710612-a0ec29ac-ac00-465f-808f-47d251eb0a54.png)
